@@ -7,7 +7,7 @@
   ],
   "license": "MIT",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/acacha/pushwoosh_demo",
   "ignore": [
     "**/.*",
     "node_modules",
