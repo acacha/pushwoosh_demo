@@ -2,6 +2,22 @@
 
 > A demo for pushwoosh
 
+# Demo
+
+http://acacha.github.io/pushwoosh_demo/
+
+# See Also
+
+- http://acacha.org/mediawiki/Pushwoosh
+
+# Builded using
+
+- Vue
+- Vue-cli Browserify
+- Pushwoosh API and Push demo app
+- Jquery
+- AdminLTE
+
 ## Build Setup
 
 ``` bash
