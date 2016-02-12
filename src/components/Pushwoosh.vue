@@ -1,6 +1,8 @@
 <template>
   <div class="pushwoosh">
     <h1>{{ msg }}</h1>
+    <h2>First install Pushwoosh Android demo app on your phone. You can find the app at:</h2>
+    <h3><a href="https://play.google.com/store/apps/details?id=com.pushwoosh.test.tags.sample.app&hl=es">Google Play</a></h3>
     <div class="box box-primary direct-chat direct-chat-primary">
       <div class="box-header with-border">
         <h3 class="box-title">Send notifications</h3>
