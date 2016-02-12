@@ -1,0 +1,21 @@
+{
+  "name": "pushwoosh_demo",
+  "description": "A demo for pushwoosh",
+  "main": "",
+  "authors": [
+    "Sergi Tur Badenas <sergiturbadenas@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#~2.3.2"
+  }
+}
